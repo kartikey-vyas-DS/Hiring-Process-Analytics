@@ -34,6 +34,7 @@ and extraordinary analysis and visualization capability.
 ![alt text](download5.png)
 
 # Insights
+
 • It is observed from the table of Hiring analysis that Male candidates has 
 the highest number of hired counts followed by female and those who do 
 not wish to disclose their gender, but if we look deeper, it is understood 
@@ -44,23 +45,31 @@ recruitment ie. 69.38% against male having 62.76% rate and those who
 don’t disclose has 68.19%, hence it is understood that encouraging more 
 females to apply may result in faster recruitment and less time and 
 resources may require for recruitment.
+
 • In salary analysis and salary distribution it is understood that candidates 
 having salary above and below 50,000 is almost same with a minor 
 difference of 61 counts being more under 50,000, this information can be 
 useful to negotiate salaries with potential candidates.
+
 • It is observed from the table that operations department has the highest 
 rate of working employees 39.24% followed by service department 
 28.36% while least rate of employee is in Human resource department, 
 this information is very helpful in finding out many matrices like revenue 
 per employee of that particular department etc.
+
 • It is observed from the result table that c9 post name has the highest 
 candidate counts followed by c5. Post name like m6, m7, n10, n6, n9 all 
 combined accounts for only 0.1% counts of candidates.
+
 # Results
 A. No. of Male hired = 2563, No. of Female hired = 1856
+
 B. Mean salary offered including outliers= 49983.03 and excluding outliers 
 = 49857.33
+
 C. Largest group of candidates is 40,000 to 50,000 salary range having 776 
 counts.
+
 D. Operation department has the highest rate of workforce i.e 39.24%
+
 E. A quarter of entire workforce is entitled c9 post name.
